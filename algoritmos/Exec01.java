@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author 182110091
+ * @author Rodrigo Amaral
  */
 //1- Desenvolva uma algoritmo, que guarde as informações de 15 alunos Nome, n1, n2, n3, media:
 
